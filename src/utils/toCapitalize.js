@@ -7,10 +7,5 @@ const toCapitalize2 = (word) => {
 const toCapitalize3 = (word) => {
     return word.charAt(0).toUpperCase() + word.slice(1);
 }
-const toCapitalize4 = (word) => {
-    return word.charAt(0).toUpperCase() + word.slice(1);
-}
-const toCapitalize4 = (word) => {
-    return word.charAt(0).toUpperCase() + word.slice(1);
-}
+
 export {toCapitalize,toCapitalize2};
